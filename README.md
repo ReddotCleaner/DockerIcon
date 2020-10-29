@@ -1,2 +1,2 @@
-This is a 仓库 for docker icon.
+This is a repository for docker icon.
 Personnal use only.
