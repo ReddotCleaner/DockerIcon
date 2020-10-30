@@ -1,4 +1,4 @@
-This is a repository for docker icon.
+This is a repository for docker icons.
 
 Personnal use only.
 
