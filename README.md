@@ -1,5 +1,5 @@
 This is a repository for docker icons.
 
-Personnal use only.
+Personal use only.
 
 Default size is 256px\*256px
